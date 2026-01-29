@@ -1,7 +1,6 @@
 # ml-rl-universal-sequence-design
 
-This software project accompanies the research paper, [A Reinforcement Learning Framework for
-Universal Sequence Design in Polar Codes](https://arxiv.org/abs/2601.20118).
+This software project accompanies the research paper, [A Reinforcement Learning Based Universal Sequence Design for Polar Codes](https://arxiv.org/abs/2601.20118).
 
 This repo contains the source code used in the development of the work described in the paper.
 
